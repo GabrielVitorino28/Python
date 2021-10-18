@@ -3,3 +3,7 @@
 ![Ícone Python](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png)
 
 Projetos desenvolvidos utilizando a linguagem Python
+
+## Ferramentas utilizadas
+
+[Visual Studio Code](https://code.visualstudio.com)
