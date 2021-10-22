@@ -6,6 +6,6 @@ Projetos desenvolvidos utilizando a linguagem Python
 
 ## Ferramentas utilizadas
 
-[Visual Studio Code](https://code.visualstudio.com)
-
-[Python 3.10.0](https://www.python.org)
+- [Visual Studio Code](https://code.visualstudio.com)
+- [Python 3.10.0](https://www.python.org)
+- [Extensão Python para o VS Code](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
